@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Shrinidhisherugar/LeetCode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Shrinidhisherugar/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Shrinidhisherugar/LeetCode/tree/master/0015-3sum) |
+| [0037-sudoku-solver](https://github.com/Shrinidhisherugar/LeetCode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Shrinidhisherugar/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Shrinidhisherugar/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Shrinidhisherugar/LeetCode/tree/master/0053-maximum-subarray) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shrinidhisherugar/LeetCode/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/Shrinidhisherugar/LeetCode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Shrinidhisherugar/LeetCode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Shrinidhisherugar/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0217-contains-duplicate](https://github.com/Shrinidhisherugar/LeetCode/tree/master/0217-contains-duplicate) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Shrinidhisherugar/LeetCode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Shrinidhisherugar/LeetCode/tree/master/0048-rotate-image) |
 ## Greedy
 |  |
@@ -119,4 +122,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Shrinidhisherugar/LeetCode/tree/master/0014-longest-common-prefix) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Shrinidhisherugar/LeetCode/tree/master/0037-sudoku-solver) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Shrinidhisherugar/LeetCode/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Shrinidhisherugar/LeetCode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
